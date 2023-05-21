@@ -12,7 +12,7 @@
 </p>
 
 <p>
-    Criada em meados de <b>2018</b>, no ínicio da nossa ideia de start-up. Este site servia como portfólio para nossos projetos e contatos com clientes.
+    Criado em meados de <b>2018</b>, no ínicio da nossa ideia de start-up. Este site servia como portfólio para nossos projetos e contatos com clientes.
 </p>
 
 [Veja o site aqui](https://getteli.github.io/Ilion/)
